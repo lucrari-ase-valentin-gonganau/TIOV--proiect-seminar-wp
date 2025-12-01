@@ -1,0 +1,21 @@
+# WordPress Backup – Export File
+
+## Date de autentificare
+
+- **Username:** `wp`
+- **Password:** `wp`
+
+---
+
+## Descriere
+
+Acest folder conține un **backup WordPress** realizat prin funcția  
+**Tools → Export** din panoul de administrare WordPress.
+
+Exportul include:
+
+- Conținutul site-ului (postări, pagini, comentarii, meniuri, media – linkuri către fișierele originale);
+- Structura taxonomiilor (categorii, etichete);
+- Setările de bază ale conținutului.
+
+❗ **Nota:** Acest tip de backup **nu conține fișierele media efective** momentan.
